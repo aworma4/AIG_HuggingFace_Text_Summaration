@@ -2,3 +2,9 @@
 
 Testing text summarisation using Hugging Face using transfer learning on an existing mode:
 https://huggingface.co/docs/transformers/tasks/summarization
+
+
+# Data
+AS a point of difference I will use the reddit data set:
+https://huggingface.co/datasets/reddit
+
